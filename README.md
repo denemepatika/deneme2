@@ -1,6 +1,6 @@
-#DENEME
+DENEME
 
-##Alt Bilgi
+Alt Bilgi
 sdlglkdsng
 
 şsdmglksndg
